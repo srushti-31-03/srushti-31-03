@@ -1,5 +1,5 @@
 # 💫 About Me:
-> 👋 Hi, I’m Srushti!<br>> 1st-year CSE (AI/ML) student at GSSSIETW.<br>> Exploring AI/ML one concept at a time<br>> Hack2Skill Hackathon Participant<br>> Samsung Innovation Campus — Selected<br>> Learning • Building • Experimenting
+> 👋 Hi, I’m Srushti!<br>> 1st-year CSE (AI/ML) student at GSSSIETW.<br>> Exploring AI/ML one concept at a time<br>> Hack2Skill Hackathon Participant<br>> Samsung Innovation Campus — Selected<br>> Learning • Building • Experimenting<br>> I'm currently learning Python.
 
 
 ## 🌐 Socials:
