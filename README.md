@@ -1,5 +1,5 @@
 # 💫 About Me:
-> 👋 Hi, I’m Srushti!<br>> 1st-year CSE (AI/ML) student at GSSSIETW.<br>> Exploring AI/ML one concept at a time<br>> Hack2Skill Hackathon Participant<br>> Samsung Innovation Campus — Selected<br>> Learning • Building • Experimenting<br>> I'm currently learning Python.
+> 👋 Hi, I’m Srushti!<br>> 1st-year CSE (AI/ML) student at GSSSIETW.<br>> Exploring AI/ML one concept at a time<br>> Hack2Skill Hackathon Participant<br>> Samsung Innovation Campus — Selected<br>> Learning • Building • Experimenting<br>> Reach out to me at srushti31032007@gmail.com
 
 [![](https://komarev.com/ghpvc/?username=srushti-31-03&icon=0&color=0)](https://visitcount.itsvg.in)
 
